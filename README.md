@@ -1,4 +1,7 @@
 # 🔐 DevSecure360
+**This is an README version of my project. The repository is prevented from public view to avoid plagiarism. Contact the [Author](#-author) for the original repository. Thank you for understanding**
+
+**Video Preview of the project : "https://drive.google.com/file/d/1640lE6R8qOp2bc0YHx5hQSRrtjV8mZWA/view?usp=drivesdk"**
 
 **DevSecure360** is a **full-stack web application** that performs **vulnerability scanning** for both **source code** and **web applications**.  
 It provides developers and security enthusiasts with an interactive dashboard to **monitor**, **analyze**, and **manage** their security scans — all in one place.
